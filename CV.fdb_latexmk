@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1751311543.43484 "c:/Users/anind/Documents/code/cloned/cv/CV.tex" "CV.pdf" "CV" 1751311545.0676 0
+["pdflatex"] 1789925894.79155 "c:/Users/anind/Documents/code/cloned/cv/CV.tex" "CV.pdf" "CV" 1789925896.94815 0
   "C:/Users/anind/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1726755808 82535 0266753fb37a3d673c1d739765ad059f ""
   "C:/Users/anind/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1715099521 24240353 832cfbfd37208b3bed91ca8c33c16664 ""
   "C:/Users/anind/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -164,10 +164,10 @@
   "C:/Users/anind/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/anind/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/anind/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "CV.aux" 1751311544 916 1fa88f7a282476bafad46454238a0043 "pdflatex"
-  "CV.out" 1751311544 587 df6208fb43f5d74b4434eeea541dade4 "pdflatex"
-  "CV.tex" 1751311542 11016 193ef598752715a6988ac6e1deaef1ec ""
-  "c:/Users/anind/Documents/code/cloned/cv/CV.tex" 1751311542 11016 193ef598752715a6988ac6e1deaef1ec ""
+  "CV.aux" 1789925896 916 1fa88f7a282476bafad46454238a0043 "pdflatex"
+  "CV.out" 1789925896 587 df6208fb43f5d74b4434eeea541dade4 "pdflatex"
+  "CV.tex" 1789925894 11366 e8bcb59ccf5e794d0f63d6e85f54233a ""
+  "c:/Users/anind/Documents/code/cloned/cv/CV.tex" 1789925894 11366 e8bcb59ccf5e794d0f63d6e85f54233a ""
   "photo.jpg" 1751309689 180168 dd8225592814c7b454a3e0cee12e33d0 ""
   (generated)
   "CV.aux"
